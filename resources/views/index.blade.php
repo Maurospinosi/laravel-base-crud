@@ -4,8 +4,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Laravel base CRUD</title>
-<link rel="stylesheet" href="../css/app.css">
+    <title>Laravel base CRUD_Books-page</title>
+    <link rel="stylesheet" href="../css/app.css">
 </head>
 <body>
     <table>
@@ -32,5 +32,6 @@
             </tr>
         @endforeach    
     </table>
+    <a href="books/create ">CREATE</a>
 </body>
 </html>
